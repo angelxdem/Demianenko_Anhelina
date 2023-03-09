@@ -10,7 +10,7 @@
 <br>
 <hr>
 <h3 align="center">Завдання 1</h3>
-![Знімок екрана 1](https://user-images.githubusercontent.com/113301385/224079859-c0762a26-ec0d-423a-a127-2b27dbd4a939.png)
+<image src=https://user-images.githubusercontent.com/113301385/224079859-c0762a26-ec0d-423a-a127-2b27dbd4a939.png>
 <br>
 <hr>
 <h3 align="center">Завдання 2</h3>
