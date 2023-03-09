@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"ex01"}];updateSearchResults();
