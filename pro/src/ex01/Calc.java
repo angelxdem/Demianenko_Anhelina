@@ -37,7 +37,7 @@ public Item2d getResult() {
  * @param x - аргумент обрахункової функції.
  * @return результат обрахунків функції.
  */
-private String calc(double x, double y) {
+public String calc(double x, double y) {
 	
 	double radius = Math. sqrt(Math.pow(x,2)+Math.pow(y,2))/2;
 
@@ -45,7 +45,7 @@ private String calc(double x, double y) {
 	
 }
 
-private String calcR(double x, double y) {
+public String calcR(double x, double y) {
 	return (String)Integer.toHexString((int)(Math. sqrt(Math.pow(x,2)+Math.pow(y,2))/2));
 }
 
