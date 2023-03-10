@@ -75,4 +75,6 @@
 <li>Розробити клас для тестування функціональності програми.</li>
 <li>Використати коментарі для автоматичної генерації документації засобами javadoc.</li>
 	</ol>
-<image src= alt="Знімок екрана 5.1" align="center">
+<image src=https://user-images.githubusercontent.com/113301385/224361444-78ae1af5-eabf-4b1e-b210-5487b89c2d8d.png alt="Знімок екрана 5.1" align="center">
+	
+
