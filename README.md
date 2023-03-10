@@ -61,4 +61,9 @@
 <li>Використати коментарі для автоматичної генерації документації засобами javadoc.</li>
   </ol>
 
+<image src=https://user-images.githubusercontent.com/113301385/224348887-57ec6fab-0846-40ae-9c21-0ecd5672bb05.png alt="Знімок екрана 4.1" align="center">
+<image src=https://user-images.githubusercontent.com/113301385/224349214-3c8f43ba-7ed4-4f0a-8cc0-cef6f3bf9a25.png alt="Знімок екрана 4.2" align="center">
+<image src=https://user-images.githubusercontent.com/113301385/224349566-178590aa-0749-4f0f-817c-64d805c69bf0.png alt="Знімок екрана 4.2" align="center">
+<image src=https://user-images.githubusercontent.com/113301385/224349900-4a55ea8b-70e6-4143-a201-60c70f9f228e.png alt="Знімок екрана 4.2" align="center">
+
 
